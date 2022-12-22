@@ -5,6 +5,7 @@ There is important information in teams' daily tasks that needs to be shared wit
 - team availability (who is out of office, who is working from home, who is working from office)
 - calendar events (new product releases, phone shifts etc)
 - submit work from home requests reminder
+- phone availability
 
 
 # Challenges
@@ -13,13 +14,14 @@ I haven't got any experience with different APIs prior to this project. This was
 
 # Technology
 - Python
+- Asterisk
 - BambooHR API
 - Google Calendar API
 - Google Chat Webhooks 
 
 
 # What I learned
-The main topic I learned in this project is how to work with the BambooHR, Google-Calendar, Google-Chat APIs.
+The main topic I learned in this project is how to work with the BambooHR, Google-Calendar, Google-Chat, Asterisk APIs.
 
 
 # Examples
