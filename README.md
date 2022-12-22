@@ -7,7 +7,12 @@ There is important information in teams' daily tasks that needs to be shared wit
 
 # Challenges
 
+
 # Technology
+- Python
+- Bamboo HR API
+- Google Calendar API
+- Google Chat Webhooks 
 
 # What I learned
 
